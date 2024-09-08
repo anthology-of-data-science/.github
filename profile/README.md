@@ -9,3 +9,7 @@ Now there is a lot of machine learning learning materials out there, so why this
 - take a hands-on, problem-based approach. Rather than, say, explaining the principles that underlie regularization, we choose to demonstrate these principles using the simplest algorithms. With a little math, everyone should be able to understand how LASSO performs regularisation for regression models. With this intuitive understanding, you can move on to more complex algorithms and applications, and reason where and how to use regularisation.
 
 [^1]: Sheikh et al. (2023), Mission AI: the New System Technology, [https://doi.org/10.1007/978-3-031-21448-6](https://doi.org/10.1007/978-3-031-21448-6).
+
+## Copyright notice
+
+<p xmlns:cc="http://creativecommons.org/ns#" >All the work in this GitHub organization is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
